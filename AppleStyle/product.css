@@ -1478,3 +1478,18 @@ article2:last-child {
     text-shadow: 1px 1px 0px #fff;
   }
 
+/* Tables */
+
+  table {
+    border-collapse: collapse;
+    border-spacing: 0;
+  }
+  table {
+		margin-bottom: 2em;
+	}
+  table,th,td{
+		border:1px solid black;
+		text-align: center;
+		margin: 0 auto;
+		width: 600px;
+	}
