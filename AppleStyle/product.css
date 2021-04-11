@@ -1531,9 +1531,10 @@ article2:last-child {
     article3:last-child {
       margin-bottom: 0;
 }
-  .wrapper.style5 {
-    background-color:lightgrey;
-    color:pink;
-    
+.wrapper.style5 {
+  background-color:lightpink;
+  color:rgb(254, 254, 255);
+ font-size:20px;
+  padding: 50px 150px 50px 150px;
   }
 
