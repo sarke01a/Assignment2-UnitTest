@@ -1435,6 +1435,7 @@ article2:last-child {
 
 .box {
   background: white;
+  color: rgb(22,103,141);
   box-shadow: inset 0px 0px 0px 1px rgba(129, 125, 125, 0.15), 0px 2px 3px 0px rgba(0, 0, 0, 0.1);
   text-align: left;
   padding: 2em;
@@ -1461,6 +1462,7 @@ article2:last-child {
   }
 
 
+
 /* Wrappers */
 
 .wrapper {
@@ -1474,21 +1476,24 @@ article2:last-child {
 
 
   .wrapper.style2 {
-    background-color:lightgrey;
+    background-color:lightpink;
     color: black;
+    font-size: 20px;
   }
 
   .wrapper.style3 {
-    background-color:  rgb(255,85,51);
-    text-shadow: 1px 1px 0px #fff;
+    background-color: rgb(22,103,141);
+    color: white;
+
    
   }
 
   .wrapper.style4 {
     background-color:lightgrey;
-    color:pink;
+    color: rgb(22,103,141);
     
   }
+
 /* Tables */
 
   table {
